@@ -6,7 +6,7 @@ It started out trying to use assembly to read the mouse, ended up building a lit
 
 ![Screenshot](images/screenshot.png  "Screenshot")
 
-This is not complete, maintained, or being further developed, it's just a bit of nostalgia example of some of the stuff we used to do in the early 90's.
+This is not complete, maintained, or being further developed, it's just a bit of nostalgia, an example of some of the stuff we used to do in the early 90's.
 
 If you're brave enough to run it you will need a copy of Bruce's C compiler and DOSBox installed and execute the following command;
 
